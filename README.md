@@ -11,4 +11,14 @@ A machine learning project to predict house prices using regression algorithms i
 ```bash
 pip install numpy
 pip install pandas,scikitlearn,matplotlib
+```
+🚀 Usage
+```bash
+python app.py
+```
+📈 Future Work
 
+Try multiple algorithms (Decision Tree, Random Forest, Lasso, Ridge)
+
+## Dataset
+The dataset can be downloaded from the repo.
